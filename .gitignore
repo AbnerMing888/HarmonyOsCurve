@@ -11,3 +11,4 @@
 **/.test
 /.appanalyzer
 /curve
+/build-profile.json5
